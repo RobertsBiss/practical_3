@@ -25,7 +25,7 @@ export default function App() {
   // Reference to store the location watching
   const locationSubscription = useRef(null);
 
-  const API_KEY = '5b4f831ec3c35fc6796aad114386ac66';
+  const API_KEY = 'Your API key';
 
   // Show/Hide dialog methods
   const showDialog = () => setVisible(true);
